@@ -6,3 +6,5 @@ Playground for experimenting with models of cubsat control
 2. Activate the conda environment with `conda activate cubesat` and add it to your jupyter lab with `ipython kernel install --user --name=cubesat`
 3. Run `jupyter labextension install @jupyter-widgets/jupyterlab-manager && jupyter labextension install jupyter-matplotlib && jupyter nbextension enable --py widgetsnbextension` for interactive plots in jupyter lab
 4. With `cubesat` environment active run `jupyter lab` in the terminal
+5. ~~Run `jupyter nbextension install --py mayavi --user` and `jupyter nbextension enable mayavi --user --py`~~
+
